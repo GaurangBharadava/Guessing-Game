@@ -6,12 +6,12 @@ A Guessing Game in Rust is a common beginner project because it introduces me to
 - ✅ Error handling
 - ✅ Matching values
 
-🌟 Breakdown of Concepts Used
+## 🌟 Breakdown of Concepts Used
 
-- Concept	  Explanation                                       
-- loop	  Infinite loop that runs until you break out of it 
-- match	  Pattern matching for handling comparisons          
-- Ordering  Enum for handling comparison results              
-- trim()	  Removes whitespace from input                      
-- parse()	  Converts input to a number                        
-- expect()  Handles possible errors                           
+## Concept	  Explanation                                       
+- `loop`:	  Infinite loop that runs until you break out of it 
+- `match`:	  Pattern matching for handling comparisons          
+- `Ordering`:  Enum for handling comparison results              
+- `trim()`:	  Removes whitespace from input                      
+- `parse()`:	  Converts input to a number                        
+- `expect()`:  Handles possible errors                           
